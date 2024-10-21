@@ -3,8 +3,6 @@
 - ⚽️🥎🏐🎱🏓 Sports are a big part of my life🏸🥊🥋🏋️‍♀️
 - 📱 Here is my Linkedin: https://www.linkedin.com/in/leonardomonteiro3467/)
 
-<p align="left">Hello World!!</p>
-
 ###
 
 <div align="left">
