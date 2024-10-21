@@ -44,17 +44,8 @@
   <img height="200" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2s4Y2o4eTRxNnRsbTJwb3RjcGp0aHk0Y2gxMXVmc3c2cHFqcDN4MSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Lkwg23t1SdR22FTYl6/giphy.webp"  />
 </div>
 
-###
 
-<h3 align="left">🔥   My Stats :</h3>
 
-###
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=maurodesouza&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
-</div>
-
-###
 
 
 
