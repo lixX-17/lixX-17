@@ -1,6 +1,6 @@
 - 👋 Hi, my name is Leonardo Monteiro
 - 💻 Currently pursuing a Master's in Computer Engineering at the Faculdade de Ciências
-- ⚽️🥎🏐🎱🏓 Sports are a big part of my life🏸🥊🥋🏋️‍♀️
+- ⚽️🥎🏐🏓 Sports are a big part of my life🎱🥊🥋🏋️‍♀️
 - 📱 Here is my Linkedin: https://www.linkedin.com/in/leonardomonteiro3467/)
 
 
