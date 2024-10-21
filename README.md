@@ -3,6 +3,10 @@
 - ⚽️🥎🏐🎱🏓 Sports are a big part of my life🏸🥊🥋🏋️‍♀️
 - 📱 Here is my Linkedin: https://www.linkedin.com/in/leonardomonteiro3467/)
 
+
+
+
+
 ###
 
 <div align="left">
@@ -32,6 +36,10 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
 </div>
+
+
+
+
 
 ###
 
