@@ -47,33 +47,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=lixX-17&show_icons=true&theme=vision-friendly-dark&locale=en&layout=compact&langs_count=8&bg_color=30,11998e,38ef7d&title_color=fff&text_color=fff" alt="lixX-17"/>
 </p>
 
-const fetch = require("node-fetch");
-
-const username = lixX-17; 
-const githubToken = "TEU_GITHUB_TOKEN"; 
-
-const getContributions = async () => {
-    const response = await fetch(
-        `https://api.github.com/users/${lixX-17}/events/public`,
-        {
-            headers: { Authorization: `token ${githubToken}` },
-        }
-    );
-    const events = await response.json();
-    const contributions = {};
-
-    events
-        .filter(event => event.type === "PushEvent")
-        .forEach(event => {
-            const repo = event.repo.name;
-            contributions[repo] = contributions[repo] || 0;
-            contributions[repo] += event.payload.size;
-        });
-
-    console.log("Contributions by Repository:", contributions);
-};
-
-getContributions();
 
 
 ---------------------------------------------------------------------------------------------------------------------------------------
