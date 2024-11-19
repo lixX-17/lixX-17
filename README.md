@@ -40,14 +40,11 @@
 
 <h2 align="left">My Stats</h2>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=lixX-17
-&show_icons=true&theme=tokyonight&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" alt="GustavoCostaHenriques">
+  <img src="https://github-readme-stats.vercel.app/api?username=lixX-17&show_icons=true&theme=tokyonight&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" alt="lixX-17">
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=lixX-17
-&show_icons=true&theme=vision-friendly-dark&locale=en&layout=compact&langs_count=8&bg_color=30,11998e,38ef7d&title_color=fff&text_color=fff" alt="lixX-17
-"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=lixX-17&show_icons=true&theme=vision-friendly-dark&locale=en&layout=compact&langs_count=8&bg_color=30,11998e,38ef7d&title_color=fff&text_color=fff" alt="lixX-17"/>
 </p>
 
 ---------------------------------------------------------------------------------------------------------------------------------------
