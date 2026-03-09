@@ -2,7 +2,7 @@
 
 <h1 align="center">👋 Hi, my name is Leonardo Monteiro 👋</h1>
 
-# 💫 About Me:
+#  About Me:
 💻 Currently pursuing a Master's in Computer Engineering at the Faculdade de Ciências<br>⚽️🥎🏐🏓 Sports are a big part of my life🎱🥊🥋🏋️‍♀️
 
 
