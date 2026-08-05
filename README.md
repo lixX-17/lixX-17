@@ -14,13 +14,20 @@
 * HTML/CSS/JavaScript
 * Haskell
 
-### 📊 GitHub Stats
+### 📊 GitHub Stats & Trophies:
+
+<p align="center">
+  <img src="https://github-readme-stats-eight.vercel.app/api?username=lixX-17&show_icons=true&theme=dark" alt="stats graph" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats-eight.vercel.app/api/top-langs/?username=lixX-17&layout=compact&theme=dark" alt="languages graph" />
+</p>
+
 <p align="center">
   <img src="https://github-readme-streak-stats-eight.vercel.app/?user=lixX-17&theme=dark" alt="streak stats" />
 </p>
 
----
-
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=lixX-17&color=brightgreen" alt="Visitor Count" />
+  <img src="https://github-profile-trophy.vercel.app/?username=lixX-17&theme=radical" alt="trophies" />
 </p>
