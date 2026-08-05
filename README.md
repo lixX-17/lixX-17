@@ -1,8 +1,8 @@
 <h2 align="center">Hi 👋! My name is Leonardo Monteiro and I'm a Computer Engineering Master's student, from Portugal.</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=lixX-17&theme=dracula&hide_border=false&include_all_commits=true&count_private=true" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lixX-17&theme=dracula&hide_border=false&layout=compact&langs_count=5" alt="languages graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=lixX-17&show_icons=true&theme=radical" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lixX-17&layout=compact&theme=radical" alt="languages graph" />
 </p>
 
 <p align="center">
@@ -39,11 +39,11 @@
 
 ### 📊 GitHub Stats & Trophies:
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/api?user=lixX-17&theme=dark" alt="streak stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=lixX-17&theme=radical" alt="streak stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=lixX-17&theme=dark" alt="trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=lixX-17&theme=radical" alt="trophies" />
 </p>
 
 ---
