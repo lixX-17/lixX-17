@@ -1,44 +1,26 @@
-<div align="center">
+<h1 align="center">👋 Hi, my name is Leonardo Monteiro 👋</h1>
 
-# Hi there 👋
+# About Me:
+💻 Currently pursuing a Master's in Computer Engineering at the Faculdade de Ciências<br>⚽️🥎🏐🏓 Sports are a big part of my life🎱🥊🥋🏋️‍♀️
 
-</div>
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leonardomonteiro17/) 
 
-My name is **Leonardo Monteiro**, and I'm a Computer Engineering Master's student from Portugal.
+# 💻 Tech Stack:
+* Java
+* Python
+* C
+* SQL
+* HTML/CSS/JavaScript
+* Haskell
 
-- 💻 Currently pursuing a Master's in Computer Engineering at Faculdade de Ciências
-- ⚽️🥎🏐🏓 Sports are a big part of my life 🎱🥊🥋🏋️‍♀️
-- 🔗 Connect with me on [LinkedIn](https://www.linkedin.com/in/leonardomonteiro17/)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=lixX-17&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=lixX-17&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=lixX-17&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-## Tools and Languages
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=lixX-17&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/haskell/haskell-original.svg" height="40" alt="haskell logo" />
-</p>
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=lixX-17&show_icons=true&theme=radical" alt="stats graph" height="180" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lixX-17&layout=compact&theme=radical" alt="languages graph" height="180" />
-</p>
-
-## 🔥 Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=lixX-17&theme=radical" alt="trophies" />
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=lixX-17&color=brightgreen" alt="Visitor Count" />
-</p>
+---
+[![](https://visitcount.itsvg.in/api?id=lixX-17&icon=0&color=0)](https://visitcount.itsvg.in)
