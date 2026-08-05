@@ -14,13 +14,9 @@
 * HTML/CSS/JavaScript
 * Haskell
 
-### 📊 GitHub Stats & Trophies:
+### 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-streak-stats-eight.vercel.app/?user=lixX-17&theme=dark" alt="streak stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=lixX-17&theme=radical" alt="trophies" />
 </p>
 
 ---
