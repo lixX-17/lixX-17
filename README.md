@@ -24,3 +24,8 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=lixX-17&color=brightgreen" alt="Visitor Count" />
 </p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=lixX-17&show_icons=true&theme=dark" alt="stats graph" />
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=lixX-17&layout=compact&theme=dark" alt="languages graph" />
+</p>
