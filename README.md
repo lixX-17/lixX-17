@@ -9,8 +9,8 @@
 # 💻 Tech Stack:
 * Java
 * Python
-* C
 * SQL
+* C
 * HTML/CSS/JavaScript
 * Haskell
 
