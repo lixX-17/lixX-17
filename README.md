@@ -2,13 +2,13 @@
 
 # Hi there 👋
 
+</div>
+
 My name is **Leonardo Monteiro**, and I'm a Computer Engineering Master's student from Portugal.
 
 - 💻 Currently pursuing a Master's in Computer Engineering at Faculdade de Ciências
 - ⚽️🥎🏐🏓 Sports are a big part of my life 🎱🥊🥋🏋️‍♀️
 - 🔗 Connect with me on [LinkedIn](https://www.linkedin.com/in/leonardomonteiro17/)
-
-</div>
 
 ## Tools and Languages
 
@@ -33,11 +33,7 @@ My name is **Leonardo Monteiro**, and I'm a Computer Engineering Master's studen
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lixX-17&layout=compact&theme=radical" alt="languages graph" height="180" />
 </p>
 
-## 🔥 Streak & Trophies
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=lixX-17&theme=radical" alt="streak stats" />
-</p>
+## 🔥 Trophies
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=lixX-17&theme=radical" alt="trophies" />
