@@ -10,27 +10,27 @@
 
 <br><br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:00FF41&height=150&section=header&text=LEONARDO%20MONTEIRO&fontSize=50&fontAlignY=40&desc=Software%20Engineer%20|%20Master's%20Student&descAlignY=65&descSize=20&fontColor=ffffff" alt="Header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:00FF41&height=150&section=header&text=LEONARDO%20MONTEIRO&fontSize=50&fontAlignY=40&desc=Software%20Engineer%20|%20Master's%20Student%20@%20LASIGE&descAlignY=65&descSize=20&fontColor=ffffff" alt="Header" />
 
 </div>
 
-## 🤖 `[whoami]` :: Sobre Mim
+## 🤖 `[whoami]` :: Profile
 
-> 🧠 **Status Académico:** A frequentar o Mestrado em Engenharia Informática na **Faculdade de Ciências**.
-> ⚡ **Mindset:** Focado na interseção entre comunicação segura, sistemas fiáveis e inovação tecnológica.
-> 🔋 **Fora da Matrix (Desporto):** O desporto é uma parte fundamental do meu algoritmo de vida. ⚽️ 🥎 🏐 🏓 🎱 🥊 🥋 🏋️‍♀️
+> 🧠 **Status:** Master's Student in Software Engineering @ **FCUL** | Researcher @ **LASIGE**.
+> ⚡ **Core Focus:** Solving real-world challenges through **secure distributed systems**, **networking protocols**, and **applied software development**.
+> 🔋 **Background:** BSc in Software Engineering (14/20). Extracurricular youth mentor at CS Kids Center. Fluent in 🇵🇹 & 🇬🇧.
 
 <br>
 
-## 📟 `[sys_status]` :: Objetivos Atuais
+## 📟 `[sys_status]` :: Current Objectives
 
 ```bash
 lixX-17@mainframe:~$ ./display_current_objectives.sh
 [>] Executing query...
-[>] TARGET ACQUIRED: Master's Dissertation (2025/2026)
+[>] ROLE: Master's Thesis Researcher (2025/2026)
+[>] AFFILIATION: LASIGE / Smart Energy Lab (SEL)
 [>] PROJECT: "Reliable and Secure Device-to-Device Communication for Offline Wallbox EV Charging Systems"
-[>] ENVIRONMENT: Low-connectivity environments
-[>] AFFILIATION: Smart Energy Lab (SEL)
-[>] GOAL: Prototyping robust security/privacy protocols & reliable connectivity.
+[>] HARDWARE: Raspberry Pi, Arduino, TP-Link/Devolo PLC adapters, Starlink terminals
+[>] FOCUS: Evaluating D2D protocols (Wi-Fi, BLE, LoRa, PLC) & analyzing network resilience (RTT, throughput, packet loss, RSSI).
 [>] STATUS: IN PROGRESS [████████░░░░░░░░] 45%
 lixX-17@mainframe:~$ _
