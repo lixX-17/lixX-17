@@ -176,28 +176,6 @@ leonardo@mainframe:~$ _
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
 
-<!-- ===================== GITHUB STATS ===================== -->
-## `07.` GITHUB STATS
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=lixX-17&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F5FF&icon_color=B892FF&text_color=c9d1d9&count_private=true" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lixX-17&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F5FF&text_color=c9d1d9&langs_count=8" />
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=lixX-17&theme=tokyonight&hide_border=true&background=0D1117&ring=00F5FF&fire=B892FF&currStreakLabel=00F5FF" />
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=lixX-17&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00F5FF&line=B892FF&point=39FF14" width="100%"/>
-
-</div>
-
-### 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=lixX-17&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1&column=7" />
-</div>
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
-
 <!-- ===================== CONTACT & SOCIALS ===================== -->
 ## `08.` CONTACT & SOCIALS
 
