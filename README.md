@@ -1,11 +1,11 @@
 <div align="center">
 
 <!-- ===================== BANNER PRINCIPAL ===================== -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=280&section=header&text=LEONARDO%20MONTEIRO&fontSize=55&fontColor=00F5FF&animation=fadeIn&fontAlignY=38&desc=Systems%20Online%20%7C%20Computer%20Engineer&descAlignY=58&descSize=20&descColor=B892FF" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=280&section=header&text=LEONARDO%20MONTEIRO&fontSize=55&fontColor=00F5FF&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%7C%20Researcher%20at%20LASIGE&descAlignY=58&descSize=20&descColor=B892FF" width="100%"/>
 
 <!-- ===================== TYPING ANIMATION ===================== -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=900&color=00F5FF&center=true&vCenter=true&multiline=true&repeat=true&width=760&height=100&lines=%3E+Booting+Leonardo.exe...;%3E+Loading+Modules%3A+Java+%7C+Python+%7C+SQL+%7C+C+%7C+Haskell;%3E+Access+Granted+%E2%9C%93+Welcome+to+my+mainframe" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=900&color=00F5FF&center=true&vCenter=true&multiline=true&repeat=true&width=780&height=100&lines=%3E+Booting+Leonardo.exe...;%3E+MSc+Software+Engineering+%40+FCUL%2C+University+of+Lisbon;%3E+Researcher+%40+LASIGE+%7C+Distributed+Systems+%26+Networks" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -21,40 +21,52 @@
 <!-- ===================== SOBRE MIM ===================== -->
 ## `01.` SOBRE MIM
 
-<img align="right" width="380" src="https://raw.githubusercontent.com/mikechambers98/mikechambers98/main/computer.gif">
-
 ```yaml
 > whoami --verbose
 
 user:        Leonardo Monteiro
-role:        Computer Engineering Student (Master's)
-institution: Faculdade de Ciências
-location:    Portugal 🇵🇹
-focus:       Software Development | Systems | AI-driven interfaces
-status:      [ONLINE] compiling knowledge... 98% complete
+location:    Oeiras, Lisboa, Portugal
+role:        Master's Student in Software Engineering
+institution: FCUL - Faculdade de Ciências, Universidade de Lisboa
+status:      Master's Thesis Researcher @ LASIGE
+email:       leonardofmonteiro346@gmail.com
 
-interests:
-  - ⚽ Football
-  - 🥎 Softball
-  - 🏐 Volleyball
-  - 🏓 Table Tennis
-  - 🎱 Billiards
-  - 🥊 Boxing
-  - 🥋 Martial Arts
-  - 🏋️‍♀️ Strength Training
-
-fun_fact: "Debugo código com a mesma disciplina que treino."
+profile: >
+  Software Engineering Master's student conducting research at LASIGE.
+  Motivated and collaborative engineer focused on solving real-world
+  challenges through secure distributed systems, networking protocols,
+  and applied software development.
 ```
 
-💻 Atualmente a tirar o Mestrado em Engenharia Informática na **Faculdade de Ciências**.
-⚡ Apaixonado por tecnologia, resolução de problemas e desporto em quase todas as suas formas.
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
 
-<br clear="right"/>
+<!-- ===================== EDUCAÇÃO ===================== -->
+## `02.` EDUCAÇÃO
+
+**Master's Degree in Software Engineering** — FCUL, University of Lisbon `2024 – Present`
+Average: 14/20
+
+**Bachelor's Degree in Software Engineering** — FCUL, University of Lisbon `2021 – 2024`
+Average: 14/20
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
+
+<!-- ===================== EXPERIÊNCIA ===================== -->
+## `03.` EXPERIÊNCIA PROFISSIONAL
+
+### 🛰️ Master's Thesis Researcher — LASIGE, FCUL
+`2025 – 2026`
+
+**Tech:** Linux, Python, Git, Raspberry Pi, Arduino, Wi-Fi Direct, BLE, LoRa, PLC, Starlink
+
+- Evaluated D2D communication protocols (Wi-Fi, BLE, LoRa, PLC, and Starlink) for EV wallboxes in different environments.
+- Designed and assembled real-world experimental setups bridging Raspberry Pi, Arduino, TP-Link/Devolo PLC adapters, and Starlink terminals.
+- Analyzed network resilience and physical limitations using Python for data visualization of metrics such as RTT, throughput, packet loss, and RSSI.
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
 
 <!-- ===================== TECH STACK ===================== -->
-## `02.` TECH STACK
+## `04.` TECH STACK
 
 <div align="center">
 
@@ -65,98 +77,99 @@ fun_fact: "Debugo código com a mesma disciplina que treino."
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)
 ![Haskell](https://img.shields.io/badge/Haskell-5D4F85?style=for-the-badge&logo=haskell&logoColor=white)
 
 </div>
 
+### ⚙️ Ferramentas & Plataformas
+
 <div align="center">
 
-### ⚙️ Ferramentas & Ambiente
-
-![VSCode](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![IntelliJ](https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux%20%2F%20Bash-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![JUnit](https://img.shields.io/badge/JUnit%20%2F%20PIT-25A162?style=for-the-badge&logo=junit5&logoColor=white)
+![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
 
 </div>
+
+### 🧩 Core Competencies
+
+`Distributed Systems` · `Software Testing` · `Cybersecurity` · `Blockchain` · `Software Development`
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
 
 <!-- ===================== PROJETOS ===================== -->
-## `03.` PROJETOS EM DESTAQUE
-
-<div align="center">
+## `05.` PROJETOS
 
 <table>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
-### 🛰️ Projeto Um
-> _Substitui pelo nome/descrição real do teu projeto._
+### 🔐 Secure P2P Messaging App
+_Academic Group Project · 2024 – 2025_
 
-`Java` `SQL` `POO`
+`Java` `SSL Sockets` `mTLS` `AWS` `Firebase` `Azure`
 
-[![Repo](https://img.shields.io/badge/VER_REPOSITÓRIO-00F5FF?style=for-the-badge&logo=github&logoColor=black)](https://github.com/lixX-17)
+- P2P messaging app com E2EE via SSL Sockets, mTLS, ECDHE key exchange e autenticação RSA.
+- Armazenamento multicloud (AWS, Firebase, Azure) protegido com Shamir's Secret Sharing (8/12 threshold) e AES-256-GCM.
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
-### 🧠 Projeto Dois
-> _Substitui pelo nome/descrição real do teu projeto._
+### 🛡️ Vulnerability Analysis and Exploitation
+_Academic Group Project · 2024 – 2025_
 
-`Python` `Data` `Automação`
+`C` `Python` `PHP` `MySQL` `OWASP ZAP` `Flawfinder` `AFL`
 
-[![Repo](https://img.shields.io/badge/VER_REPOSITÓRIO-B892FF?style=for-the-badge&logo=github&logoColor=black)](https://github.com/lixX-17)
+- Análise e exploração das aplicações vulnApp e SSS-DB, identificando buffer overflows, SQL injections, XSS e command injection.
+- Auditoria manual de código, desenvolvimento de exploits, proxy testing, análise estática, fuzzing e verificações assistidas por LLM.
 
 </td>
 </tr>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
-### ⚙️ Projeto Três
-> _Substitui pelo nome/descrição real do teu projeto._
+### 🌲 Unit Testing for Trie Data Structure
+_Academic Individual Project · 2024 – 2025_
 
-`C` `Sistemas` `Algoritmos`
+`Java` `Maven` `JUnit` `PIT` `JUnit QuickCheck`
 
-[![Repo](https://img.shields.io/badge/VER_REPOSITÓRIO-39FF14?style=for-the-badge&logo=github&logoColor=black)](https://github.com/lixX-17)
+- Suites de testes unitários usando ISP (Base Choice), Control/Data Flow (Prime Path, All-DU-Paths) e Logic Coverage.
+- Property-Based Testing com JUnit QuickCheck e avaliação de mutation score com PIT.
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
-### 🌐 Projeto Quatro
-> _Substitui pelo nome/descrição real do teu projeto._
+### 💱 Decentralized Finance Application
+_Academic Group Project · 2024 – 2025_
 
-`HTML` `CSS` `JavaScript`
+`Solidity` `Ethereum` `Smart Contracts` `JavaScript` `HTML`
 
-[![Repo](https://img.shields.io/badge/VER_REPOSITÓRIO-FF2E97?style=for-the-badge&logo=github&logoColor=black)](https://github.com/lixX-17)
+- App DeFi na Ethereum para token swapping (ETH/DEX) e empréstimos colateralizados.
+- Co-implementação dos smart contracts e do desenvolvimento client-side.
 
 </td>
 </tr>
 </table>
 
-</div>
-
-> 💡 **Dica:** troca os links `https://github.com/lixX-17` pelos URLs reais dos teus repositórios, e edita nome/descrição/tags de cada card.
-
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
 
-<!-- ===================== OBJETIVOS (TERMINAL) ===================== -->
-## `04.` OBJETIVOS ATUAIS
+<!-- ===================== FOCO ATUAL ===================== -->
+## `06.` FOCO ATUAL
 
 ```bash
-leonardo@mainframe:~$ cat objectives.log
+leonardo@mainframe:~$ cat status.log
 
-[✔] Concluir Mestrado em Engenharia Informática
-[✔] Aprofundar conhecimentos em Java & desenvolvimento backend
-[ ] Explorar arquiteturas de Inteligência Artificial
-[ ] Contribuir para projetos open-source
-[ ] Construir portfólio sólido de projetos pessoais
-[ ] Aperfeiçoar SQL e modelação de bases de dados
-[ ] Continuar a treinar corpo & mente (sports mode: ON)
+[ACTIVE]  Master's Thesis @ LASIGE — D2D communication protocols for EV wallboxes
+[ACTIVE]  MSc Software Engineering @ FCUL, University of Lisbon
+[ONGOING] Youth Mentor @ CS Kids Center (Jul 2023, 2024, 2025)
+[FOCUS]   Secure distributed systems, networking protocols, applied software dev
 
 leonardo@mainframe:~$ _
 ```
@@ -164,7 +177,7 @@ leonardo@mainframe:~$ _
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
 
 <!-- ===================== GITHUB STATS ===================== -->
-## `05.` GITHUB STATS
+## `07.` GITHUB STATS
 
 <div align="center">
 
@@ -177,7 +190,6 @@ leonardo@mainframe:~$ _
 
 </div>
 
-<!-- ===================== TROPHIES ===================== -->
 ### 🏆 GitHub Trophies
 
 <div align="center">
@@ -187,13 +199,13 @@ leonardo@mainframe:~$ _
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
 
 <!-- ===================== SNAKE ANIMATION ===================== -->
-## `06.` CONTRIBUTION SNAKE
+## `08.` CONTRIBUTION SNAKE
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/lixX-17/lixX-17/output/github-contribution-grid-snake-dark.svg" width="100%"/>
 </div>
 
-> ⚡ **Ativa a animação:** cria um repositório com o mesmo nome do teu utilizador (`lixX-17/lixX-17`) e adiciona o GitHub Actions workflow abaixo em `.github/workflows/snake.yml`. Ele gera automaticamente o SVG usado acima.
+> ⚡ **Ativar:** cria um repositório com o mesmo nome do teu utilizador (`lixX-17/lixX-17`) e adiciona o workflow abaixo em `.github/workflows/snake.yml`.
 
 <details>
 <summary>📄 Ver workflow (clica para expandir)</summary>
@@ -230,13 +242,16 @@ jobs:
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
 
-<!-- ===================== REDES SOCIAIS ===================== -->
-## `07.` REDES SOCIAIS
+<!-- ===================== REDES E CONTACTO ===================== -->
+## `09.` CONTACTO & REDES
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leonardomonteiro17/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leonardomonteiro17)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/lixX-17)
+[![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:leonardofmonteiro346@gmail.com)
+
+**Languages:** Portuguese (Native) · English (C1)
 
 </div>
 
