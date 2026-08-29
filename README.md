@@ -176,12 +176,6 @@ _Academic Group Project · 2024 – 2025_
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
 
 <!-- ===================== FOOTER ===================== -->
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=150&section=footer"/>
-
-**"Compiling knowledge, one commit at a time."**
-
 ![Visitor Count](https://komarev.com/ghpvc/?username=lixX-17&color=B892FF&style=flat-square&label=THANKS+FOR+VISITING)
 
 </div>
