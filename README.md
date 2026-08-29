@@ -160,22 +160,6 @@ _Academic Group Project · 2024 – 2025_
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
 
-<!-- ===================== CURRENT FOCUS ===================== -->
-## `06.` CURRENT FOCUS
-
-```bash
-leonardo@mainframe:~$ cat status.log
-
-[ACTIVE]  Master's Thesis @ LASIGE — D2D communication protocols for EV wallboxes
-[ACTIVE]  MSc Software Engineering @ FCUL, University of Lisbon
-[ONGOING] Youth Mentor @ CS Kids Center (Jul 2023, 2024, 2025)
-[FOCUS]   Secure distributed systems, networking protocols, applied software dev
-
-leonardo@mainframe:~$ _
-```
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
-
 <!-- ===================== CONTACT & SOCIALS ===================== -->
 ## `08.` CONTACT & SOCIALS
 
