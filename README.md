@@ -45,10 +45,10 @@ profile: >
 ## `02.` EDUCATION
 
 **Master's Degree in Software Engineering** — FCUL, University of Lisbon `2024 – Present`
-Average: 14/20
+
 
 **Bachelor's Degree in Software Engineering** — FCUL, University of Lisbon `2021 – 2024`
-Average: 14/20
+
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
 
