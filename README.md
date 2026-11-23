@@ -26,7 +26,7 @@
 > whoami --verbose
 
 user:        Leonardo Monteiro
-location:    Oeiras, Lisbon, Portugal
+location:    Lisbon, Portugal
 role:        Master's Student in Software Engineering
 institution: FCUL - Faculdade de Ciências, University of Lisbon
 status:      Master's Thesis Researcher @ LASIGE
